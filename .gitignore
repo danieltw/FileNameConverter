@@ -1,0 +1,4 @@
+FileNameConverter.exe
+*.suo
+bin/
+obj/
